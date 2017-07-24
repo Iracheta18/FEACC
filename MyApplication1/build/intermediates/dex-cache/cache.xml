@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ENXPS4\.android\build-cache\38568f8b3df5b83f46225e134340c1fccd994e7f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\Users\ENXPS4\Downloads\MyApplication1\app\build\intermediates\pre-dexed\debug\classes_b9db8014ad636358ee9e887ed528eaecc9f07251.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ENXPS4\.android\build-cache\8942774602654f97555b6c7d934167633ed45af3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\ENXPS4\Downloads\MyApplication1\app\build\intermediates\pre-dexed\debug\classes_0fff9ab7a2304ff9a43dad0c1b18d0a3e5f19ae3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ENXPS4\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\ENXPS4\Downloads\MyApplication1\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_6113c7606c806069b6a311be787c2367ff47684f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ENXPS4\.android\build-cache\6288f48f91185fc67cfc58d3f9caa4831c0ba891\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\ENXPS4\Downloads\MyApplication1\app\build\intermediates\pre-dexed\debug\classes_12d859f143b94bf5dd0aeceb780bf7b63dd535cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ENXPS4\.android\build-cache\d9bd4c9e201529abb46360a319dbeaf2708b37ca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\ENXPS4\Downloads\MyApplication1\app\build\intermediates\pre-dexed\debug\classes_15b77768f8038bddbbd9a831c82eea3d79267b87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ENXPS4\.android\build-cache\ad322d8499bdb5a5511aab8b9c1148e39a0764ee\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\ENXPS4\Downloads\MyApplication1\app\build\intermediates\pre-dexed\debug\classes_eeb710c751142c6b97a94e931de51a13ed235c9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ENXPS4\.android\build-cache\d97f260b87575b11c41257f53562da930899c970\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\Users\ENXPS4\Downloads\MyApplication1\app\build\intermediates\pre-dexed\debug\classes_1b9e90edae8b8f3bad25173355a05d481890663d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ENXPS4\.android\build-cache\7b64a52ab02970f5a2e4a9735ab528d84bc1cbf6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\ENXPS4\Downloads\MyApplication1\app\build\intermediates\pre-dexed\debug\classes_c14f0b667a2cf258508d496e809540c01661f6ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ENXPS4\.android\build-cache\db67a39e91a916e0c134e66405138f9944dc7034\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\ENXPS4\Downloads\MyApplication1\app\build\intermediates\pre-dexed\debug\classes_be792634d733159c8f0881d7eefc3d0e81e04307.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ENXPS4\.android\build-cache\08c3d8b8a73e315beb8d26296280f74678988241\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="C:\Users\ENXPS4\Downloads\MyApplication1\app\build\intermediates\pre-dexed\debug\classes_473a3f222e7a5ab14ca0c489978c26196ee2c261.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ENXPS4\.android\build-cache\ff5348a96bfdc5ccc952aec2688755415eb640e5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\ENXPS4\Downloads\MyApplication1\app\build\intermediates\pre-dexed\debug\classes_d2cc56dbfa1cb62614fc2ea4ae6527e38912bf6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ENXPS4\.android\build-cache\fb235ba6c085091e7916462f87d6e33ac06ad1d3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\ENXPS4\Downloads\MyApplication1\app\build\intermediates\pre-dexed\debug\classes_95c54f1dd90365207e8fe5f867905f69383fb461.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ENXPS4\.android\build-cache\6961d5ffa75b9037489eed2d3b93dd2779703d20\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\ENXPS4\Downloads\MyApplication1\app\build\intermediates\pre-dexed\debug\classes_f2b6dadb84fadc3cd0f67ec8b1768c72b921b4d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ENXPS4\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="C:\Users\ENXPS4\Downloads\MyApplication1\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha7_3e4e3ec213ceeae62caa05f0bbd273821b42786a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ENXPS4\.android\build-cache\4c8d9f0faa2d26cda05b0a0b31061da26dd5b9f0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\ENXPS4\Downloads\MyApplication1\app\build\intermediates\pre-dexed\debug\classes_699f293fcb3040520bd14c28ad4d7d315aba4b1d.jar" />
+    </item>
+
+</items>

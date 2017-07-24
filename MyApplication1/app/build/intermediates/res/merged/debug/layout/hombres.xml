@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<ScrollView android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:background="@drawable/background2">
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:weightSum="320"
+        android:id="@+id/Mkleoalv">
+        <LinearLayout
+            android:weightSum="3"
+            android:layout_weight="40"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp">
+            <ImageView
+                android:layout_weight="1"
+                android:id="@+id/gaius"
+                android:layout_width="250dp"
+                android:layout_height="match_parent"
+                android:tint="#000"
+                android:src="@drawable/aia"
+                />
+            <ImageView
+                android:layout_weight="1"
+                android:id="@+id/valkye"
+                android:layout_width="250dp"
+                android:layout_height="match_parent"
+                android:tint="#000"
+                android:src="@drawable/ake"
+
+                />
+            <ImageView
+                android:layout_weight="1"
+                android:id="@+id/basilio"
+                android:layout_width="250dp"
+                android:layout_height="match_parent"
+                android:tint="#000"
+                android:src="@drawable/asilioportrait"
+                />
+        </LinearLayout>
+        <LinearLayout
+            android:weightSum="3"
+            android:layout_weight="40"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp">
+
+
+
+            <ImageView
+                android:layout_weight="1"
+                android:id="@+id/laurent"
+                android:layout_width="250dp"
+                android:layout_height="match_parent"
+                android:tint="#000"
+                android:src="@drawable/aurent"
+                />
+            <ImageView
+                android:layout_weight="1"
+                android:id="@+id/henry"
+                android:layout_width="250dp"
+                android:layout_height="match_parent"
+                android:tint="#000"
+                android:src="@drawable/enry"
+                />
+            <ImageView
+                android:layout_weight="1"
+                android:id="@+id/gerome"
+                android:layout_width="250dp"
+                android:layout_height="match_parent"
+                android:tint="#000"
+                android:src="@drawable/erome"
+                />
+
+            />
+        </LinearLayout>
+        <LinearLayout
+            android:weightSum="3"
+            android:layout_weight="40"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp">
+
+            <ImageView
+                android:layout_weight="1"
+                android:id="@+id/ricken"
+                android:layout_width="250dp"
+                android:layout_height="match_parent"
+                android:tint="#000"
+                android:src="@drawable/icht"
+                />
+
+            <ImageView
+                android:id="@+id/virion"
+                android:layout_width="250dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:tint="#000"
+                android:src="@drawable/iole"
+
+                />
+
+            <ImageView
+                android:layout_weight="1"
+                android:id="@+id/stahl"
+                android:layout_width="250dp"
+                android:layout_height="match_parent"
+                android:tint="#000"
+                android:src="@drawable/olkakusei"
+
+                />
+
+        </LinearLayout>
+        <LinearLayout
+            android:weightSum="3"
+            android:layout_weight="40"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp">
+
+            <ImageView
+                android:id="@+id/lonqu"
+                android:layout_width="250dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:tint="#000"
+                android:src="@drawable/onku" />
+
+            <ImageView
+                android:layout_weight="1"
+                android:id="@+id/donnel"
+                android:layout_width="250dp"
+                android:layout_height="match_parent"
+                android:tint="#000"
+                android:src="@drawable/onnyportrait"
+
+                />
+            <ImageView
+                android:layout_weight="1"
+                android:id="@+id/brady"
+                android:layout_width="250dp"
+                android:layout_height="match_parent"
+                android:tint="#000"
+                android:src="@drawable/rady"
+                />
+        </LinearLayout>
+        <LinearLayout
+            android:weightSum="3"
+            android:layout_weight="40"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp">
+
+
+            <ImageView
+                android:layout_weight="1"
+                android:id="@+id/frederick"
+                android:layout_width="250dp"
+                android:layout_height="match_parent"
+                android:tint="#000"
+                android:src="@drawable/rederik_portrait"
+                />
+            <ImageView
+                android:layout_weight="1"
+                android:id="@+id/gregor"
+                android:layout_width="250dp"
+                android:layout_height="match_parent"
+                android:tint="#000"
+                android:src="@drawable/rego_portrait"
+                />
+            <ImageView
+                android:layout_weight="1"
+                android:id="@+id/chrom"
+                android:layout_width="250dp"
+                android:layout_height="match_parent"
+                android:tint="#000"
+                android:src="@drawable/rom_portrait"
+                />
+
+            />
+        </LinearLayout>
+        <LinearLayout
+            android:weightSum="3"
+            android:layout_weight="40"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp">
+
+            <ImageView
+                android:layout_weight="1"
+                android:id="@+id/kullum"
+                android:layout_width="250dp"
+                android:layout_height="match_parent"
+                android:tint="#000"
+                android:src="@drawable/ullum"
+                />
+
+            <ImageView
+                android:id="@+id/robin"
+                android:layout_width="250dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:tint="#000"
+                android:src="@drawable/vatar_fe13_portrait_1"
+
+                />
+
+            <ImageView
+                android:layout_weight="1"
+                android:id="@+id/owain"
+                android:layout_width="250dp"
+                android:layout_height="match_parent"
+                android:tint="#000"
+                android:src="@drawable/wain"
+
+                />
+
+        </LinearLayout>
+        <LinearLayout
+            android:weightSum="3"
+            android:layout_weight="40"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp">
+            <ImageView
+                android:layout_weight="1"
+                android:id="@+id/yarne"
+                android:layout_width="250dp"
+                android:layout_height="match_parent"
+                android:tint="#000"
+                android:src="@drawable/yarne"
+                />
+            <ImageView
+                android:layout_weight="1"
+                android:id="@+id/laslow"
+                android:layout_width="250dp"
+                android:layout_height="match_parent"
+                android:tint="#000"
+                android:src="@drawable/zure"
+
+                />
+            <ImageView
+                android:layout_weight="1"
+                android:id="@+id/libra"
+                android:layout_width="250dp"
+                android:layout_height="match_parent"
+                android:tint="#000"
+                android:src="@drawable/bera"
+                />
+
+        </LinearLayout>
+        <LinearLayout
+            android:weightSum="3"
+            android:layout_weight="40"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp">
+            <ImageView
+                android:layout_weight="1"
+                android:id="@+id/mmorgan"
+                android:layout_width="250dp"
+                android:layout_height="match_parent"
+                android:tint="#000"
+                android:src="@drawable/mmorgan"
+                />
+
+
+
+
+        </LinearLayout>
+
+
+        </LinearLayout>
+
+
+
+</ScrollView>
+    <ImageView
+        android:layout_weight="1"
+        android:id="@+id/next"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/next"
+        android:layout_alignParentEnd="true"
+        android:tint="#af696063"
+        />
+
+</RelativeLayout>

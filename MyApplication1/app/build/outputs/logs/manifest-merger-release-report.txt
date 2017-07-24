@@ -1,0 +1,102 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ENXPS4\Downloads\MyApplication1\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from C:\Users\ENXPS4\Downloads\MyApplication1\app\src\main\AndroidManifest.xml:3:5-54
+		INJECTED from C:\Users\ENXPS4\Downloads\MyApplication1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ENXPS4\Downloads\MyApplication1\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ENXPS4\Downloads\MyApplication1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ENXPS4\Downloads\MyApplication1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ENXPS4\Downloads\MyApplication1\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\ENXPS4\Downloads\MyApplication1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ENXPS4\Downloads\MyApplication1\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\ENXPS4\Downloads\MyApplication1\app\src\main\AndroidManifest.xml:5:5-32:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\ENXPS4\.android\build-cache\08c3d8b8a73e315beb8d26296280f74678988241\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.2.0] C:\Users\ENXPS4\.android\build-cache\38568f8b3df5b83f46225e134340c1fccd994e7f\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\ENXPS4\.android\build-cache\8942774602654f97555b6c7d934167633ed45af3\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\ENXPS4\.android\build-cache\6961d5ffa75b9037489eed2d3b93dd2779703d20\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\ENXPS4\.android\build-cache\7b64a52ab02970f5a2e4a9735ab528d84bc1cbf6\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] C:\Users\ENXPS4\.android\build-cache\d97f260b87575b11c41257f53562da930899c970\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\ENXPS4\.android\build-cache\4c8d9f0faa2d26cda05b0a0b31061da26dd5b9f0\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\ENXPS4\.android\build-cache\fb235ba6c085091e7916462f87d6e33ac06ad1d3\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\ENXPS4\.android\build-cache\6288f48f91185fc67cfc58d3f9caa4831c0ba891\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\ENXPS4\.android\build-cache\d9bd4c9e201529abb46360a319dbeaf2708b37ca\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\ENXPS4\.android\build-cache\ff5348a96bfdc5ccc952aec2688755415eb640e5\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\ENXPS4\.android\build-cache\ad322d8499bdb5a5511aab8b9c1148e39a0764ee\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\ENXPS4\Downloads\MyApplication1\app\src\main\AndroidManifest.xml:8:9-44
+	android:supportsRtl
+		ADDED from C:\Users\ENXPS4\Downloads\MyApplication1\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\ENXPS4\Downloads\MyApplication1\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\ENXPS4\Downloads\MyApplication1\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\ENXPS4\Downloads\MyApplication1\app\src\main\AndroidManifest.xml:7:9-38
+	android:theme
+		ADDED from C:\Users\ENXPS4\Downloads\MyApplication1\app\src\main\AndroidManifest.xml:11:9-52
+activity#com.example.hugoiracheta.myapplication1.MainActivity
+ADDED from C:\Users\ENXPS4\Downloads\MyApplication1\app\src\main\AndroidManifest.xml:12:9-22:20
+	android:screenOrientation
+		ADDED from C:\Users\ENXPS4\Downloads\MyApplication1\app\src\main\AndroidManifest.xml:16:13-49
+	android:label
+		ADDED from C:\Users\ENXPS4\Downloads\MyApplication1\app\src\main\AndroidManifest.xml:14:13-48
+	android:theme
+		ADDED from C:\Users\ENXPS4\Downloads\MyApplication1\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from C:\Users\ENXPS4\Downloads\MyApplication1\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\ENXPS4\Downloads\MyApplication1\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ENXPS4\Downloads\MyApplication1\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\ENXPS4\Downloads\MyApplication1\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ENXPS4\Downloads\MyApplication1\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\ENXPS4\Downloads\MyApplication1\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.example.hugoiracheta.myapplication1.hombres
+ADDED from C:\Users\ENXPS4\Downloads\MyApplication1\app\src\main\AndroidManifest.xml:23:9-28:15
+	android:screenOrientation
+		ADDED from C:\Users\ENXPS4\Downloads\MyApplication1\app\src\main\AndroidManifest.xml:27:13-49
+	android:label
+		ADDED from C:\Users\ENXPS4\Downloads\MyApplication1\app\src\main\AndroidManifest.xml:25:13-48
+	android:theme
+		ADDED from C:\Users\ENXPS4\Downloads\MyApplication1\app\src\main\AndroidManifest.xml:26:13-56
+	android:name
+		ADDED from C:\Users\ENXPS4\Downloads\MyApplication1\app\src\main\AndroidManifest.xml:24:13-36
+activity#com.example.hugoiracheta.myapplication1.childs
+ADDED from C:\Users\ENXPS4\Downloads\MyApplication1\app\src\main\AndroidManifest.xml:30:9-31:51
+	android:screenOrientation
+		ADDED from C:\Users\ENXPS4\Downloads\MyApplication1\app\src\main\AndroidManifest.xml:31:13-49
+	android:theme
+		ADDED from C:\Users\ENXPS4\Downloads\MyApplication1\app\src\main\AndroidManifest.xml:30:19-62
+	android:name
+		ADDED from C:\Users\ENXPS4\Downloads\MyApplication1\app\src\main\AndroidManifest.xml:30:63-124
+uses-sdk
+INJECTED from C:\Users\ENXPS4\Downloads\MyApplication1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\ENXPS4\.android\build-cache\08c3d8b8a73e315beb8d26296280f74678988241\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.2.0] C:\Users\ENXPS4\.android\build-cache\38568f8b3df5b83f46225e134340c1fccd994e7f\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\ENXPS4\.android\build-cache\8942774602654f97555b6c7d934167633ed45af3\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\ENXPS4\.android\build-cache\6961d5ffa75b9037489eed2d3b93dd2779703d20\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\ENXPS4\.android\build-cache\7b64a52ab02970f5a2e4a9735ab528d84bc1cbf6\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\ENXPS4\.android\build-cache\db67a39e91a916e0c134e66405138f9944dc7034\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] C:\Users\ENXPS4\.android\build-cache\d97f260b87575b11c41257f53562da930899c970\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\ENXPS4\.android\build-cache\4c8d9f0faa2d26cda05b0a0b31061da26dd5b9f0\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\ENXPS4\.android\build-cache\fb235ba6c085091e7916462f87d6e33ac06ad1d3\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\ENXPS4\.android\build-cache\6288f48f91185fc67cfc58d3f9caa4831c0ba891\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\ENXPS4\.android\build-cache\d9bd4c9e201529abb46360a319dbeaf2708b37ca\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\ENXPS4\.android\build-cache\ff5348a96bfdc5ccc952aec2688755415eb640e5\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\ENXPS4\.android\build-cache\ad322d8499bdb5a5511aab8b9c1148e39a0764ee\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] C:\Users\ENXPS4\.android\build-cache\38568f8b3df5b83f46225e134340c1fccd994e7f\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\ENXPS4\Downloads\MyApplication1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ENXPS4\Downloads\MyApplication1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ENXPS4\Downloads\MyApplication1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ENXPS4\Downloads\MyApplication1\app\src\main\AndroidManifest.xml

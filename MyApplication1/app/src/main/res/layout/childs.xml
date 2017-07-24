@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:background="@drawable/background2">
+
+<LinearLayout
+
+    android:orientation="vertical"
+    android:background="@drawable/background2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="6.0">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:textSize="45dp"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            android:gravity="center"
+            android:id="@+id/name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="MORGAN"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true" />
+        <ImageView android:id="@+id/next"
+            android:visibility="invisible"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:src="@drawable/next"
+            android:layout_alignParentRight="true" />
+        <ImageView
+            android:id="@+id/back"
+            android:visibility="visible"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_alignParentLeft="true"
+            android:src="@drawable/back" />
+
+
+
+    </RelativeLayout>
+    <LinearLayout
+
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        >
+
+        <ImageView
+            android:layout_gravity="center"
+            android:id="@+id/child"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/finalmorgan" />
+    </LinearLayout>
+    <RelativeLayout
+        android:layout_width="400dp"
+        android:layout_height="75dp">
+
+
+
+    <TextView
+        android:textSize="30dp"
+        android:textColor="#ffffff"
+        android:gravity="center_vertical"
+        android:id="@+id/Class"
+        android:text="Class: Pegasus Knight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/stats"
+        />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="400dp"
+        android:layout_height="75dp">
+
+        <TextView
+            android:textSize="30dp"
+            android:textColor="#ffffff"
+            android:gravity="center_vertical"
+            android:id="@+id/LVL"
+            android:text="Level: 10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/stats"
+            />
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="400dp"
+        android:layout_height="75dp">
+
+
+        <TextView
+            android:textSize="30dp"
+            android:textColor="#ffffff"
+            android:gravity="center_vertical"
+            android:id="@+id/HP"
+            android:text="Hp: 5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/stats"
+            />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="400dp"
+        android:layout_height="75dp">
+
+
+        <TextView
+            android:textSize="30dp"
+            android:textColor="#ffffff"
+            android:gravity="center_vertical"
+            android:id="@+id/STR"
+            android:text="Strong: "
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/stats"
+            />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="400dp"
+        android:layout_height="75dp">
+
+
+
+        <TextView
+            android:textSize="30dp"
+            android:textColor="#ffffff"
+            android:gravity="center_vertical"
+            android:id="@+id/MAG"
+            android:text="Magic: "
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/stats"
+            />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="400dp"
+        android:layout_height="75dp">
+
+        <TextView
+            android:textSize="30dp"
+            android:textColor="#ffffff"
+            android:gravity="center_vertical"
+            android:id="@+id/SKL"
+            android:text="Skill: "
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/stats"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="400dp"
+        android:layout_height="75dp">
+
+        <TextView
+            android:textSize="30dp"
+            android:textColor="#ffffff"
+            android:gravity="center_vertical"
+            android:id="@+id/SPD"
+            android:text="Speed: "
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/stats"
+            />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="400dp"
+        android:layout_height="75dp">
+
+        <TextView
+            android:textSize="30dp"
+            android:textColor="#ffffff"
+            android:gravity="center_vertical"
+            android:id="@+id/LCK"
+            android:text="Luck: "
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/stats"
+            />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="400dp"
+        android:layout_height="75dp">
+
+        <TextView
+            android:textSize="30dp"
+            android:textColor="#ffffff"
+            android:gravity="center_vertical"
+            android:id="@+id/DEF"
+            android:text="Defense: "
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/stats"
+            />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="400dp"
+        android:layout_height="75dp">
+
+        <TextView
+            android:textSize="30dp"
+            android:textColor="#ffffff"
+            android:gravity="center_vertical"
+            android:id="@+id/RES"
+            android:text="Resistance: "
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/stats"
+            />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="400dp"
+        android:layout_height="75dp">
+
+        <TextView
+            android:textSize="30dp"
+            android:textColor="#ffffff"
+            android:gravity="center_vertical"
+            android:id="@+id/MOV"
+            android:text="Movement: "
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/stats"
+            />
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="400dp"
+        android:layout_height="75dp">
+
+        <TextView
+            android:textSize="30dp"
+            android:textColor="#ffffff"
+            android:gravity="center_vertical"
+            android:id="@+id/SKLL"
+            android:text="Skills: "
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/stats"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true" />
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:id="@+id/skl1"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/dualttack"/>
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:id="@+id/skl2"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/skl1"
+            android:visibility="invisible"
+            android:src="@drawable/aether"/>
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:id="@+id/skl3"
+            android:layout_centerVertical="true"
+            android:visibility="invisible"
+            android:layout_toRightOf="@id/skl2"
+            android:src="@drawable/charm"/>
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="400dp"
+        android:layout_height="75dp">
+
+        <TextView
+            android:textSize="30dp"
+            android:textColor="#ffffff"
+            android:gravity="center_vertical"
+            android:id="@+id/WPN"
+            android:text="Weapon: "
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/stats"
+            />
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="400dp"
+        android:layout_height="75dp">
+
+        <TextView
+            android:textSize="30dp"
+            android:textColor="#ffffff"
+            android:gravity="center_vertical"
+            android:id="@+id/ITM"
+            android:text="Item: "
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/stats"
+            />
+
+    </RelativeLayout>
+
+
+</LinearLayout>
+</ScrollView>
