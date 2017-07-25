@@ -1,10 +1,18 @@
 [
     {
+        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\ENXPS4\\.android\\build-cache\\38568f8b3df5b83f46225e134340c1fccd994e7f\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
         "source": "C:\\Users\\ENXPS4\\.android\\build-cache\\38568f8b3df5b83f46225e134340c1fccd994e7f\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
     },
     {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
         "source": "C:\\Users\\ENXPS4\\.android\\build-cache\\38568f8b3df5b83f46225e134340c1fccd994e7f\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\ENXPS4\\.android\\build-cache\\38568f8b3df5b83f46225e134340c1fccd994e7f\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
     }
 ]

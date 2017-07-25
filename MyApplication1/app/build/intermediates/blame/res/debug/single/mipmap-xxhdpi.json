@@ -1,5 +1,13 @@
 [
     {
+        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
         "source": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
