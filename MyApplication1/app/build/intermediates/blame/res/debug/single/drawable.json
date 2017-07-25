@@ -68,12 +68,16 @@
         "source": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\src\\main\\res\\drawable\\deliverer.png"
     },
     {
-        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "C:\\Users\\ENXPS4\\.android\\build-cache\\8942774602654f97555b6c7d934167633ed45af3\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nowi.png",
+        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\nowi.png"
     },
     {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\solidarity.png",
         "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\solidarity.png"
+    },
+    {
+        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\ENXPS4\\.android\\build-cache\\8942774602654f97555b6c7d934167633ed45af3\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
@@ -136,6 +140,10 @@
         "source": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\src\\main\\res\\drawable\\skill2.png"
     },
     {
+        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flavia.png",
+        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\flavia.png"
+    },
+    {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\axebreaker.png",
         "source": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\src\\main\\res\\drawable\\axebreaker.png"
     },
@@ -196,6 +204,10 @@
         "source": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\src\\main\\res\\drawable\\erome.png"
     },
     {
+        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kjelle.png",
+        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\kjelle.png"
+    },
+    {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\organs.png",
         "source": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\src\\main\\res\\drawable\\organs.png"
     },
@@ -220,12 +232,12 @@
         "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\defense2.png"
     },
     {
-        "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "C:\\Users\\ENXPS4\\.android\\build-cache\\8942774602654f97555b6c7d934167633ed45af3\\output\\res\\drawable\\abc_ic_search_api_material.xml"
-    },
-    {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\zure.png",
         "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\zure.png"
+    },
+    {
+        "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\ENXPS4\\.android\\build-cache\\8942774602654f97555b6c7d934167633ed45af3\\output\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\finalsevera.png",
@@ -256,20 +268,16 @@
         "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\anathema.png"
     },
     {
-        "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\axefaire.png",
-        "source": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\src\\main\\res\\drawable\\axefaire.png"
-    },
-    {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vengeance.png",
         "source": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\src\\main\\res\\drawable\\vengeance.png"
     },
     {
-        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aether.png",
-        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\aether.png"
+        "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\axefaire.png",
+        "source": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\src\\main\\res\\drawable\\axefaire.png"
     },
     {
-        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iamo_portrait.png",
-        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\iamo_portrait.png"
+        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aether.png",
+        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\aether.png"
     },
     {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.png",
@@ -308,8 +316,8 @@
         "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\tomebreaker.png"
     },
     {
-        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iriel.png",
-        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\iriel.png"
+        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lucina.png",
+        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\lucina.png"
     },
     {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\focus.png",
@@ -318,10 +326,6 @@
     {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vatar_fe13_portrait_1.png",
         "source": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\src\\main\\res\\drawable\\vatar_fe13_portrait_1.png"
-    },
-    {
-        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ah.png",
-        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\ah.png"
     },
     {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gamble.png",
@@ -356,20 +360,20 @@
         "source": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\src\\main\\res\\drawable\\swordbreaker.png"
     },
     {
-        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aurent.png",
-        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\aurent.png"
-    },
-    {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\axebreaker.png",
         "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\axebreaker.png"
     },
     {
-        "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dualguard.png",
-        "source": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\src\\main\\res\\drawable\\dualguard.png"
+        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aurent.png",
+        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\aurent.png"
     },
     {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\evenrhythm.png",
         "source": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\src\\main\\res\\drawable\\evenrhythm.png"
+    },
+    {
+        "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dualguard.png",
+        "source": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\src\\main\\res\\drawable\\dualguard.png"
     },
     {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
@@ -382,10 +386,6 @@
     {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aegis.png",
         "source": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\src\\main\\res\\drawable\\aegis.png"
-    },
-    {
-        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umia.png",
-        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\umia.png"
     },
     {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bowfaire.png",
@@ -418,6 +418,10 @@
     {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\patience.png",
         "source": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\src\\main\\res\\drawable\\patience.png"
+    },
+    {
+        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\anna.png",
+        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\anna.png"
     },
     {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
@@ -488,12 +492,12 @@
         "source": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\src\\main\\res\\drawable\\onnyportrait.png"
     },
     {
-        "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\finallaurent.png",
-        "source": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\src\\main\\res\\drawable\\finallaurent.png"
-    },
-    {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\erome.png",
         "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\erome.png"
+    },
+    {
+        "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\finallaurent.png",
+        "source": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\src\\main\\res\\drawable\\finallaurent.png"
     },
     {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
@@ -508,12 +512,12 @@
         "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\conquest.png"
     },
     {
-        "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rallystrength.png",
-        "source": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\src\\main\\res\\drawable\\rallystrength.png"
+        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\robinf.png",
+        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\robinf.png"
     },
     {
-        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ariya_kakusei.png",
-        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\ariya_kakusei.png"
+        "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rallystrength.png",
+        "source": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\src\\main\\res\\drawable\\rallystrength.png"
     },
     {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\acrobat.png",
@@ -564,6 +568,10 @@
         "source": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\src\\main\\res\\drawable\\locktouch.png"
     },
     {
+        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nah.png",
+        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\nah.png"
+    },
+    {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\acrobat.png",
         "source": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\src\\main\\res\\drawable\\acrobat.png"
     },
@@ -574,10 +582,6 @@
     {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icht.png",
         "source": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\src\\main\\res\\drawable\\icht.png"
-    },
-    {
-        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\oire.png",
-        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\oire.png"
     },
     {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\magic2.png",
@@ -608,14 +612,6 @@
         "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\vatar_fe13_portrait_1.png"
     },
     {
-        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rge_kakusei.png",
-        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\rge_kakusei.png"
-    },
-    {
-        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nna13portrait.png",
-        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\nna13portrait.png"
-    },
-    {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rightfulking.png",
         "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\rightfulking.png"
     },
@@ -644,6 +640,10 @@
         "source": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\src\\main\\res\\drawable\\luna.png"
     },
     {
+        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lissa.png",
+        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\lissa.png"
+    },
+    {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
         "source": "C:\\Users\\ENXPS4\\.android\\build-cache\\8942774602654f97555b6c7d934167633ed45af3\\output\\res\\drawable\\abc_ic_clear_material.xml"
     },
@@ -656,6 +656,10 @@
         "source": "C:\\Users\\ENXPS4\\.android\\build-cache\\8942774602654f97555b6c7d934167633ed45af3\\output\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
+        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\panne.png",
+        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\panne.png"
+    },
+    {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
         "source": "C:\\Users\\ENXPS4\\.android\\build-cache\\8942774602654f97555b6c7d934167633ed45af3\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
@@ -664,20 +668,16 @@
         "source": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\src\\main\\res\\drawable\\shadowgift.png"
     },
     {
-        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\finalnah.png",
-        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\finalnah.png"
-    },
-    {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rallyluck.png",
         "source": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\src\\main\\res\\drawable\\rallyluck.png"
     },
     {
-        "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\letalithy.png",
-        "source": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\src\\main\\res\\drawable\\letalithy.png"
+        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\finalnah.png",
+        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\finalnah.png"
     },
     {
-        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ynthia_kakusei.png",
-        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\ynthia_kakusei.png"
+        "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\letalithy.png",
+        "source": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\src\\main\\res\\drawable\\letalithy.png"
     },
     {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rederik_portrait.png",
@@ -760,10 +760,6 @@
         "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\healthtouch.png"
     },
     {
-        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lavia.png",
-        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\lavia.png"
-    },
-    {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beastbane.png",
         "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\beastbane.png"
     },
@@ -784,16 +780,16 @@
         "source": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\src\\main\\res\\drawable\\finalinigo.png"
     },
     {
+        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\noire.png",
+        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\noire.png"
+    },
+    {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\underdog.png",
         "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\underdog.png"
     },
     {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aia.png",
         "source": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\src\\main\\res\\drawable\\aia.png"
-    },
-    {
-        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\evera.png",
-        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\evera.png"
     },
     {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sol.png",
@@ -860,6 +856,10 @@
         "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\lifetaker.png"
     },
     {
+        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tiki.png",
+        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\tiki.png"
+    },
+    {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
         "source": "C:\\Users\\ENXPS4\\.android\\build-cache\\8942774602654f97555b6c7d934167633ed45af3\\output\\res\\drawable\\notification_bg_low.xml"
     },
@@ -876,16 +876,16 @@
         "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\asilioportrait.png"
     },
     {
+        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sully.png",
+        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\sully.png"
+    },
+    {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vantage.png",
         "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\vantage.png"
     },
     {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tomefaire.png",
         "source": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\src\\main\\res\\drawable\\tomefaire.png"
-    },
-    {
-        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ayriportrait.png",
-        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\ayriportrait.png"
     },
     {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\skill2.png",
@@ -980,24 +980,32 @@
         "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\dualsupport.png"
     },
     {
-        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ucina_portrait_normal.png",
-        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\ucina_portrait_normal.png"
-    },
-    {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tomefaire.png",
         "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\tomefaire.png"
     },
     {
-        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vatar_fe13_portrait_2.png",
-        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\vatar_fe13_portrait_2.png"
+        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sumia.png",
+        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\sumia.png"
+    },
+    {
+        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tharja.png",
+        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\tharja.png"
     },
     {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
         "source": "C:\\Users\\ENXPS4\\.android\\build-cache\\8942774602654f97555b6c7d934167633ed45af3\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
+        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cordelia.png",
+        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\cordelia.png"
+    },
+    {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mmorgan.png",
         "source": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\src\\main\\res\\drawable\\mmorgan.png"
+    },
+    {
+        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cherche.png",
+        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\cherche.png"
     },
     {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lancebreaker.png",
@@ -1052,10 +1060,6 @@
         "source": "C:\\Users\\ENXPS4\\.android\\build-cache\\8942774602654f97555b6c7d934167633ed45af3\\output\\res\\drawable\\notification_tile_bg.xml"
     },
     {
-        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\livia_kakusei.png",
-        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\livia_kakusei.png"
-    },
-    {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rallyresistance.png",
         "source": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\src\\main\\res\\drawable\\rallyresistance.png"
     },
@@ -1072,20 +1076,12 @@
         "source": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\src\\main\\res\\drawable\\spped2.png"
     },
     {
-        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iz_portrait.png",
-        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\iz_portrait.png"
-    },
-    {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\relief.png",
         "source": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\src\\main\\res\\drawable\\relief.png"
     },
     {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ikiportrait.png",
         "source": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\src\\main\\res\\drawable\\ikiportrait.png"
-    },
-    {
-        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ono_kakusei.png",
-        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\ono_kakusei.png"
     },
     {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rallyhearth.png",
@@ -1144,6 +1140,10 @@
         "source": "C:\\Users\\ENXPS4\\.android\\build-cache\\8942774602654f97555b6c7d934167633ed45af3\\output\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
+        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cynthia.png",
+        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\cynthia.png"
+    },
+    {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ayriportrait.png",
         "source": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\src\\main\\res\\drawable\\ayriportrait.png"
     },
@@ -1160,16 +1160,16 @@
         "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\fmorgan.png"
     },
     {
+        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\miriel.png",
+        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\miriel.png"
+    },
+    {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
         "source": "C:\\Users\\ENXPS4\\.android\\build-cache\\8942774602654f97555b6c7d934167633ed45af3\\output\\res\\drawable\\notification_tile_bg.xml"
     },
     {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mkmk.png",
         "source": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\src\\main\\res\\drawable\\mkmk.png"
-    },
-    {
-        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ariabel.png",
-        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\ariabel.png"
     },
     {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\quickburn.png",
@@ -1194,6 +1194,10 @@
     {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\magic2.png",
         "source": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\src\\main\\res\\drawable\\magic2.png"
+    },
+    {
+        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\olivia.png",
+        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\olivia.png"
     },
     {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hp5.png",
@@ -1264,16 +1268,12 @@
         "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\rallymovement.png"
     },
     {
-        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ezel.png",
-        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\ezel.png"
-    },
-    {
-        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\elvet_portrait.png",
-        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\elvet_portrait.png"
-    },
-    {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aegis.png",
         "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\aegis.png"
+    },
+    {
+        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sayri.png",
+        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\sayri.png"
     },
     {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lancefaire.png",
@@ -1316,10 +1316,6 @@
         "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\hex.png"
     },
     {
-        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\oiree.png",
-        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\oiree.png"
-    },
-    {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\finalbrady.png",
         "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\finalbrady.png"
     },
@@ -1330,6 +1326,10 @@
     {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
         "source": "C:\\Users\\ENXPS4\\.android\\build-cache\\8942774602654f97555b6c7d934167633ed45af3\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\maribelle.png",
+        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\maribelle.png"
     },
     {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ariabel.png",
@@ -1392,6 +1392,10 @@
         "source": "C:\\Users\\ENXPS4\\.android\\build-cache\\8942774602654f97555b6c7d934167633ed45af3\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
+        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\severa.png",
+        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\severa.png"
+    },
+    {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\swordbreaker.png",
         "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\swordbreaker.png"
     },
@@ -1434,10 +1438,6 @@
     {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ono_kakusei.png",
         "source": "C:\\Users\\ENXPS4\\Downloads\\MyApplication1\\app\\src\\main\\res\\drawable\\ono_kakusei.png"
-    },
-    {
-        "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ikiportrait.png",
-        "source": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\src\\main\\res\\drawable\\ikiportrait.png"
     },
     {
         "merged": "C:\\Users\\ENXPS4\\Downloads\\FEACC\\FEACC\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\enry.png",
